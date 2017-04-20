@@ -1,0 +1,58 @@
+<svg height="878" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="878" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">11 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ skipper@0.8.2 </tspan>
+<tspan x="10" y="90">  ├─┬ async@2.0.1 </tspan>
+<tspan x="10" y="106">  │ └── lodash@4.17.4 </tspan>
+<tspan x="10" y="122">  ├─┬ body-parser@1.17.1 </tspan>
+<tspan x="10" y="138">  │ ├── bytes@2.4.0 </tspan>
+<tspan x="10" y="154">  │ ├── content-type@1.0.2 </tspan>
+<tspan x="10" y="170">  │ ├─┬ debug@2.6.1 </tspan>
+<tspan x="10" y="186">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="202">  │ ├── depd@1.1.0 </tspan>
+<tspan x="10" y="218">  │ ├─┬ http-errors@1.6.1 </tspan>
+<tspan x="10" y="234">  │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="250">  │ │ ├── setprototypeof@1.0.3 </tspan>
+<tspan x="10" y="266">  │ │ └── statuses@1.3.1 </tspan>
+<tspan x="10" y="282">  │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="298">  │ ├─┬ on-finished@2.3.0 </tspan>
+<tspan x="10" y="314">  │ │ └── ee-first@1.1.1 </tspan>
+<tspan x="10" y="330">  │ ├── qs@6.4.0 </tspan>
+<tspan x="10" y="346">  │ ├─┬ raw-body@2.2.0 </tspan>
+<tspan x="10" y="362">  │ │ └── unpipe@1.0.0 </tspan>
+<tspan x="10" y="378">  │ └─┬ type-is@1.6.15 </tspan>
+<tspan x="10" y="394">  │   ├── media-typer@0.3.0 </tspan>
+<tspan x="10" y="410">  │   └─┬ mime-types@2.1.15 </tspan>
+<tspan x="10" y="426">  │     └── mime-db@1.27.0 </tspan>
+<tspan x="10" y="442">  ├── colors@1.1.2 </tspan>
+<tspan x="10" y="458">  ├─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="474">  │ └── ms@0.7.1 </tspan>
+<tspan x="10" y="490">  ├── dot-access@1.0.0 </tspan>
+<tspan x="10" y="506">  ├── lodash@3.10.1 </tspan>
+<tspan x="10" y="522">  ├─┬ multiparty@4.1.3 </tspan>
+<tspan x="10" y="538">  │ └─┬ fd-slicer@1.0.1 </tspan>
+<tspan x="10" y="554">  │   └── pend@1.2.0 </tspan>
+<tspan x="10" y="570">  ├── semver@4.3.6 </tspan>
+<tspan x="10" y="586">  ├─┬ skipper-disk@0.5.9 </tspan>
+<tspan x="10" y="602">  │ └─┬ fs-extra@0.30.0 </tspan>
+<tspan x="10" y="618">  │   ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="634">  │   ├── jsonfile@2.4.0 </tspan>
+<tspan x="10" y="650">  │   ├── klaw@1.3.1 </tspan>
+<tspan x="10" y="666">  │   ├── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="682">  │   └─┬ rimraf@2.6.1 </tspan>
+<tspan x="10" y="698">  │     └─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="714">  │       ├── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="730">  │       ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="746">  │       │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="762">  │       ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="778">  │       │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="794">  │       │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="810">  │       │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="826">  │       └── once@1.4.0 </tspan>
+<tspan x="10" y="842">  ├── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="858">  └── uuid@3.0.1</tspan>
+</text>
+</svg>
